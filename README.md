@@ -59,7 +59,7 @@ const metrics = kanban.metrics(stories)
 
 # Building
 
-To build the library, use npm run build. The build is produced in dist directory.
+To build the library, use `npm run build`. The build is produced in dist directory.
 
 # Testing
 
