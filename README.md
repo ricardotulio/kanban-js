@@ -21,7 +21,7 @@ import kanban from 'kanban-js'
 also work using `require`:
 
 ```js
-const kanban = require('kanbanjs')
+const kanban = require('kanban-js')
 ```
 
 # Generating metrics
