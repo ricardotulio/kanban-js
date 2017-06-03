@@ -7,7 +7,7 @@ JavaScript library to calculate Kanban metrics
 First, install it:
 
 ```
-npm install kanbanjs
+npm install kanban-js
 ```
 
 # Import
@@ -15,7 +15,7 @@ npm install kanbanjs
 Import like usual
 
 ```js
-import kanban from 'kanbanjs'
+import kanban from 'kanban-js'
 ```
 
 also work using `require`:
